@@ -1,0 +1,33 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Workout</string>
+    <string name="workout">Workout</string>
+    <string name="todo">TODO</string>
+    <string name="workouts">Workouts</string>
+    <string name="diets">Diets</string>
+    <string name="todo2">TODO2</string>
+    <string name="todo3">TODO3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_workout">Workout</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="back">Back</string>
+    <string name="_3_bottle_water_compulsary">3 bottle water compulsary</string>
+    <string name="rice_any2_green_veggies_any1_protien">Rice, Any2 green veggies, any1 protien.</string>
+    <string name="khaja">Khaja:</string>
+    <string name="dinner">Dinner:</string>
+    <string name="tea_digestive_random_biscuit_fruit">Tea, Digestive/Random biscuit, Fruit</string>
+    <string name="lunch">Lunch:</string>
+    <string name="tea_milk_buscuits_eggs_frutis_compulsary_bananna_mostly">Tea/milk, Buscuits, Eggs, frutis(Compulsary{Bananna mostly})</string>
+    <string name="breakfast">Breakfast:</string>
+    <string name="fullbody_workout">FullBody Workout</string>
+    <string name="fullbodu">Fullbodu</string>
+    <string name="do_this_twice_or_thrice">Do this Twice or Thrice</string>
+    <string name="lowerbody">Lowerbody</string>
+    <string name="lower_body">Lower Body</string>
+    <string name="do_it_thrice_nonstop">Do it Thrice Nonstop</string>
+    <string name="Arms">TODO</string>
+    <string name="arms_workout">Arms Workout</string>
+    <string name="full">full</string>
+    <string name="take_care_of_ur_ass_ur_self_cuz_uk_the_workouts">Take care of ur ass ur self cuz uk the workouts</string>
+</resources>
